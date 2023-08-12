@@ -16,6 +16,7 @@
     "@trpc/server": "^10.35.0",
     "aws4": "^1.12.0",
     "kerberos": "^2.0.1",
+    "mongodb-client-encryption": "^2.9.0",
     "nuxt-mongoose": "^0.0.9",
     "sass": "^1.65.1",
     "snappy": "^7.2.2",
