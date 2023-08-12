@@ -9,11 +9,15 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@mdi/font": "^7.2.96",
+    "@mongodb-js/zstd": "^1.1.0",
     "@trpc/client": "^10.35.0",
     "@trpc/server": "^10.35.0",
     "nuxt-mongoose": "^0.0.9",
+    "sass": "^1.65.1",
     "superjson": "^1.13.1",
     "trpc-nuxt": "^0.10.7",
+    "vuetify": "^3.3.12",
     "zod": "^3.21.4"
   },
   "devDependencies": {
