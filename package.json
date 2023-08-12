@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@trpc/client": "^10.35.0",
+    "@trpc/server": "^10.35.0",
+    "nuxt-mongoose": "^0.0.9",
+    "superjson": "^1.13.1",
+    "trpc-nuxt": "^0.10.7",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "nuxt": "3.6.5"
+  }
+}
