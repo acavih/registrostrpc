@@ -9,6 +9,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@aws-sdk/credential-providers": "^3.389.0",
     "@mdi/font": "^7.2.96",
     "@mongodb-js/zstd": "^1.1.0",
     "@trpc/client": "^10.35.0",
